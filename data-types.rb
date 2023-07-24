@@ -1,0 +1,7 @@
+puts("Hello".class)
+puts(23.class)
+puts(23.5.class)
+puts(true.class)
+puts([1,2,3,4].class)
+puts({:name => "John"}.class)
+puts(:name.class)
